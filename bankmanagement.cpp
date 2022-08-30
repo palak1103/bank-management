@@ -300,8 +300,6 @@ int main()
 {
     NODE *first=0;
     int choice;
-
-
     while(1)
     {
         printf("\n1.Create\n2.Transfer the money\n3.Display based on Account number\n4.Display all Account\n5.Add amount to existing account\n6.withdrawl\n7.Exit\n");
